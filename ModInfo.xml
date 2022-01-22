@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="renevo" />
+		<Description value="RenEvo SP Mods" />
+		<Author value="RenEvo" />
+		<Version value="A20" />
+		<Website value="https://github.com/renevo" />
+	</ModInfo>
+</xml>

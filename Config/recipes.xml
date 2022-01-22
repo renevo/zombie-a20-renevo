@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<renevo>
+    <set xpath="/recipes/recipe/ingredient[@name='foodRawMeat' and @count='5']/@count">2</set>
+</renevo>
